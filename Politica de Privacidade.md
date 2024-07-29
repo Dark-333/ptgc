@@ -1,11 +1,6 @@
-html
 <!DOCTYPE html>
 <html lang="pt">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidade da PTGC</title>
-</head>
+<head></head>
 <body>
     <h1>Política de Privacidade da PTGC</h1>
     <p>PTGC recolhe alguns Dados Pessoais dos seus Utilizadores.</p>
