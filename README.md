@@ -20,7 +20,6 @@
         <li>As Interfaces de Programação de Aplicações (API);</li>
         <li>O Serviço;</li>
     </ol>
-    <p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
     <h2>O que o Utilizador deve saber de relance</h2>
     <p>Note que algumas disposições destes Termos podem aplicar-se apenas a certas categorias de Utilizadores. Em particular, certas disposições podem aplicar-se apenas a Consumidores ou a Utilizadores que não se qualifiquem como Consumidores. Tais limitações são sempre explicitamente mencionadas em cada cláusula afetada. Na ausência de tal menção, as cláusulas aplicam-se a todos os Utilizadores.</p>
     <p>A utilização do PTGC e do Serviço é restrita por idade, conforme detalhado na seção relevante deste documento.</p>
