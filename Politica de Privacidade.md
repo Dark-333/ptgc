@@ -1,6 +1,4 @@
-Claro, aqui está o texto fornecido em HTML sem mudanças:
-
-```html
+html
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -72,8 +70,6 @@ Claro, aqui está o texto fornecido em HTML sem mudanças:
     <ul>
         <li>Dados Pessoais recolhidos para finalidades relacionadas com a execução de um contrato entre o Responsável e o Utilizador serão retidos até que tal contrato tenha sido totalmente executado.</li>
         <li>Dados Pessoais recolhidos para os fins dos interesses legítimos do Responsável serão retidos pelo tempo necessário para cumprir tais finalidades. Os Utilizadores podem encontrar informações específicas sobre os interesses legítimos perseguidos pelo Responsável dentro das seções relevantes deste documento ou contactando o Responsável.</li>
-
-
     </ul>
     <p>O Responsável pode ter permissão para reter Dados Pessoais por um período mais longo sempre que o Utilizador tenha dado consentimento para tal processamento, desde que tal consentimento não seja retirado. Além disso, o Responsável pode ser obrigado a reter Dados Pessoais por um período mais longo sempre que for obrigado a fazê-lo para o cumprimento de uma obrigação legal ou por ordem de uma autoridade.</p>
     <p>Assim que o período de retenção expirar, os Dados Pessoais serão eliminados. Portanto, o direito de acesso, o direito de eliminação, o direito de retificação e o direito à portabilidade dos dados não podem ser aplicados após a expiração do período de retenção.</p>
