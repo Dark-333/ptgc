@@ -68,10 +68,7 @@
         <li>Fingir comprar qualquer Produto oferecido via PTGC sem qualquer intenção real de fazê-lo;</li>
         <li>Não pagar pelos Produtos comprados.</li>
     </ul>
-
-    <h
-
-3>Uso excessivo do Serviço</h3>
+    <h3>Uso excessivo do Serviço</h3>
     <p>Usar um recurso do PTGC excessivamente em relação a outros Utilizadores do PTGC – nesses casos, o Proprietário, a seu exclusivo critério, reserva-se adicionalmente o direito de suspender a conta do Utilizador ou limitar a atividade relacionada até que o Utilizador reduza o consumo excessivo.</p>
     <h3>Uso excessivo da API</h3>
     <p>Enviar pedidos abusivos ou excessivamente frequentes ao Serviço via API. O Proprietário determinará o que constitui abuso ou uso excessivo da API e reserva-se adicionalmente o direito de suspender temporária ou permanentemente o acesso à API pelo Utilizador. Nesses casos, o Proprietário fará um esforço razoável para alertar o Utilizador antes da suspensão.</p>
