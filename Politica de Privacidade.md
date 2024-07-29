@@ -9,12 +9,7 @@
     <p>Este documento contém uma seção dedicada aos Utilizadores nos Estados Unidos e aos seus direitos de privacidade.</p>
     <p>Este documento contém uma seção dedicada aos Utilizadores Brasileiros e aos seus direitos de privacidade.</p>
     <p>Este documento pode ser impresso para referência, utilizando o comando de impressão nas configurações de qualquer navegador.</p>
-    <h2>Responsável e Controlador dos Dados</h2>
-    <p>PTGC Labs, Inc.<br>
-    6080 Center Dr<br>
-    Piso 12<br>
-    Los Angeles, CA 90045</p>
-    <p>Email de contacto do Responsável: team@ptgc.gg</p>
+    <p>Contacto do Responsável: Servidor de suporte Discord (https://discord.gg/3NagntYmyx)</p>
     <h2>Tipos de Dados recolhidos</h2>
     <p>Entre os tipos de Dados Pessoais que a PTGC recolhe, diretamente ou através de terceiros, estão: Rastreadores; Dados de Utilização.</p>
     <p>Detalhes completos sobre cada tipo de Dado Pessoal recolhido são fornecidos nas seções dedicadas desta política de privacidade ou através de textos explicativos específicos exibidos antes da recolha dos Dados.</p>
