@@ -4,7 +4,7 @@
 <body>
     <h1>Termos e Condições de PTGC</h1>
     <p>Last updated: July 29, 2024</p>
-    <p>Please read these terms and conditions carefully before using Our Service.</p>
+    <p>Por favor, leia estes termos e condições atentamente antes de usar Nosso Serviço.</p>
     <h2>Estes Termos regulam:</h2>
     <ul>
         <li>O uso de PTGC;</li>
